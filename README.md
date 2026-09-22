@@ -117,6 +117,7 @@ I do not chase trends. I build systems with strong foundations, clear boundaries
 - Applied model integration
 - Agentic systems
 - Trust-aware AI architecture
+- Outside the box thinker 😂
 
 ---
 
@@ -127,17 +128,6 @@ I do not chase trends. I build systems with strong foundations, clear boundaries
 - Good systems make complexity manageable.
 - Security belongs in the design, not in the cleanup.
 - Build what lasts, not what looks impressive for a quarter.
-
----
-
-## Elsewhere
-
-- X: [@Ilodubahe](https://x.com/Ilodubahe)
-- LinkedIn: [Chukwuemeka Ilodubah](https://www.linkedin.com/in/chukwuemeka-ilodubah)
-- Medium: [Emilo Art](https://emiloart.medium.com)
-- Facebook: [Emilo Arts](https://www.facebook.com/emiloarts)
-- Telegram: [@Ilodubahemeka](https://t.me/Ilodubahemeka)
-- Email: [emiloarts@gmail.com](mailto:emiloarts@gmail.com)
 
 ---
 
