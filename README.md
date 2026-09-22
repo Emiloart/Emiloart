@@ -41,7 +41,7 @@ Portable decentralized identity infrastructure built around reusable verificatio
 Repository: https://github.com/Emiloart/HDIP
 
 ### ShadeFast
-Anonymous social infrastructure where privacy is the default, not a premium feature.
+Anonymous social infrastructure where privacy is the default.
 
 Website: https://shadefast.app
 
