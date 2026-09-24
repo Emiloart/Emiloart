@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chukwuemeka Ilodubah
+# Chukwuemeka Ilodubah (Emiloart)
 
 ### Software Architect • Founder, Emilo Labs
 
