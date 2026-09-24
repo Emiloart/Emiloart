@@ -119,11 +119,12 @@ I do not chase trends. I build systems with strong foundations, clear boundaries
 --- 
 
 <div align="center">
+  
 ## Personal
 
-- Je parle français.
-- I love Chess.
-- I support FC Bayern Munich.
+  Je parle français.
+  I love Chess.
+  I support FC Bayern Munich.
 </div>
 
 <div align="center">
