@@ -38,10 +38,8 @@ Humanity first. Technology second.
 ### HDIP
 Portable decentralized identity infrastructure built around reusable verification, selective disclosure, recovery, and data sovereignty.
 
-Repository: https://github.com/Emiloart/HDIP
-
 ### ShadeFast
-Anonymous social infrastructure where privacy is the default.
+Anonymous social infrastructure.
 
 Website: https://shadefast.app
 
@@ -51,7 +49,6 @@ Infrastructure for measuring what KYC providers actually deliver — not just wh
 ### Achievo
 Platform and product work focused on systems thinking, trust, and practical engineering.
 
-🔒 Private repository
 
 ---
 
@@ -119,23 +116,15 @@ I do not chase trends. I build systems with strong foundations, clear boundaries
 - Trust-aware AI architecture
 - Outside the box thinker 😂
 
----
+--- 
 
-## Principles
-
-- Design for trust, not just convenience.
-- Privacy is a requirement, not a feature.
-- Good systems make complexity manageable.
-- Security belongs in the design, not in the cleanup.
-- Build what lasts, not what looks impressive for a quarter.
-
----
-
+<div align="center">
 ## Personal
 
 - Je parle français.
 - I love Chess.
 - I support FC Bayern Munich.
+</div>
 
 <div align="center">
 
