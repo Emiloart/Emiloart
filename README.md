@@ -13,10 +13,11 @@
 
 I build software where privacy, trust, and control are part of the architecture, not afterthoughts.
 
-I work at the intersection of software architecture, distributed systems, cybersecurity, AI, and digital identity. My focus is durable systems, strong boundaries, and products that respect the people using them.
+I work at the intersection of software architecture, distributed systems, cybersecurity, AI, and digital identity. My focus is durable systems, strong boundaries, and products that respect the people [...]
 
 Humanity first. Technology second.
-</div>
+
+---
 
 ## Currently building
 
@@ -26,6 +27,7 @@ Humanity first. Technology second.
 | **[ShadeFast](https://shadefast.app)** | Privacy-first anonymous social platform | Active build |
 | **VerifyFlow** | Infrastructure for measuring what KYC providers actually deliver, not just what they promise | In development |
 | **Achievo** | Platform and product work focused on systems thinking, trust, and practical engineering | In development |
+
 ---
 
 ## What I care about
@@ -64,7 +66,7 @@ I do not chase trends. I build systems with strong foundations, clear boundaries
 `AI-assisted workflows` `Applied model integration` `Agentic systems` `Trust-aware AI architecture`
 
 **Certifications**
-Google Cybersecurity • OSEP certified • CREST in progress
+OSEP certified · CREST in progress
 
 ---
 
@@ -72,7 +74,7 @@ Google Cybersecurity • OSEP certified • CREST in progress
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Emiloart&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Emiloart GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emiloart&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emiloart&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
 </p>
 
 <p align="left">
@@ -85,8 +87,7 @@ Google Cybersecurity • OSEP certified • CREST in progress
 
 - IOTA Ambassador
 - Trust Wallet Squad Member
-- Shardeum Blockchain dev
-  
+
 ---
 
 ## Personal
