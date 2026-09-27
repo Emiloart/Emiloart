@@ -16,7 +16,7 @@ I build software where privacy, trust, and control are part of the architecture,
 I work at the intersection of software architecture, distributed systems, cybersecurity, AI, and digital identity. My focus is durable systems, strong boundaries, and products that respect the people using them.
 
 Humanity first. Technology second.
-
+</div>
 ---
 
 ## Currently building
