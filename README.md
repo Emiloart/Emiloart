@@ -17,7 +17,7 @@ I work at the intersection of software architecture, distributed systems, cybers
 
 Humanity first. Technology second.
 
----
+</div>
 
 ## Currently building
 
