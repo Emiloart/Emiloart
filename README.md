@@ -17,7 +17,6 @@ I work at the intersection of software architecture, distributed systems, cybers
 
 Humanity first. Technology second.
 </div>
----
 
 ## Currently building
 
@@ -27,7 +26,6 @@ Humanity first. Technology second.
 | **[ShadeFast](https://shadefast.app)** | Privacy-first anonymous social platform | Active build |
 | **VerifyFlow** | Infrastructure for measuring what KYC providers actually deliver, not just what they promise | In development |
 | **Achievo** | Platform and product work focused on systems thinking, trust, and practical engineering | In development |
-
 ---
 
 ## What I care about
@@ -66,7 +64,7 @@ I do not chase trends. I build systems with strong foundations, clear boundaries
 `AI-assisted workflows` `Applied model integration` `Agentic systems` `Trust-aware AI architecture`
 
 **Certifications**
-OSEP certified · CREST in progress
+Google Cybersecurity • OSEP certified • CREST in progress
 
 ---
 
@@ -87,7 +85,8 @@ OSEP certified · CREST in progress
 
 - IOTA Ambassador
 - Trust Wallet Squad Member
-
+- Shardeum Blockchain dev
+  
 ---
 
 ## Personal
