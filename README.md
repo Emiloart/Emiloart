@@ -97,4 +97,3 @@ I love chess.
 I support FC Bayern Munich.
 
 Built with a preference for systems that endure.
-
