@@ -6,7 +6,12 @@
 
 ### Software Architect · Founder, Emilo Labs
 
-[LinkedIn](https://www.linkedin.com/in/chukwuemeka-ilodubah) · [X](https://x.com/IlodubahE) · [Email](mailto:emilolabs@gmail.com)
+<a href="https://x.com/Ilodubahe"><img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chukwuemeka-ilodubah"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://emiloart.medium.com"><img src="https://cdn.simpleicons.org/medium/000000" width="28" height="28" alt="Medium"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/emiloarts"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook"></a>&nbsp;&nbsp;
+<a href="https://t.me/Ilodubahemeka"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Telegram"></a>&nbsp;&nbsp;
+<a href="mailto:emiloarts@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email"></a>
 
 </div>
 
