@@ -1,99 +1,120 @@
 <div align="center">
 
-# Chukwuemeka Ilodubah (Emiloart)
+<img src="https://github.com/Emiloart.png" width="110" height="110" alt="Chukwuemeka Ilodubah">
 
-### Software Architect • Founder, Emilo Labs
+# Chukwuemeka Ilodubah
 
+### Software Architect · Founder, Emilo Labs
 
-[![X](https://img.shields.io/badge/X-40Ilodubahe-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/Ilodubahe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chukwuemeka%20Ilodubah-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/chukwuemeka-ilodubah-502278258)
-[![Medium](https://img.shields.io/badge/Medium-Emilo%20Art-121011?logo=medium&logoColor=white&style=flat-square)](https://emiloart.medium.com)
-[![Email](https://img.shields.io/badge/Email-emilolabs%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:emilolabs@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Ilodubahemeka-26A5E4?logo=telegram&logoColor=white&style=flat-square)](https://t.me/Ilodubahemeka)
-
-I build software where privacy, trust, and control are part of the architecture, not afterthoughts.
-
-I work at the intersection of software architecture, distributed systems, cybersecurity, AI, and digital identity. My focus is durable systems, strong boundaries, and products that respect the people [...]
-
-Humanity first. Technology second.
+[LinkedIn](https://www.linkedin.com/in/chukwuemeka-ilodubah) · [X](https://x.com/IlodubahE) · [Email](mailto:emilolabs@gmail.com)
 
 </div>
 
-## Currently building
+I design and build software where **privacy engineering, AI, distributed systems, cybersecurity, and digital identity** intersect.
 
-| Project | Description | Status |
-|---|---|---|
-| **HDIP** | Portable decentralized identity infrastructure: reusable verification, selective disclosure, recovery, and data sovereignty | Active, five-phase build |
-| **[ShadeFast](https://shadefast.app)** | Privacy-first anonymous social platform | Active build |
-| **VerifyFlow** | Infrastructure for measuring what KYC providers actually deliver, not just what they promise | In development |
-| **Achievo** | Platform and product work focused on systems thinking, trust, and practical engineering | In development |
+I am the founder of **Emilo Labs**, where I work on infrastructure and products around data sovereignty, trust, identity, and privacy-preserving systems.
+
+I do not chase trends. I care about architecture that survives the hype cycle, boundaries that are explicit, and systems whose consequences are understood.
+
+**Humanity first. Technology second.**
 
 ---
 
-## What I care about
+## Currently building
+
+### [HDIP](https://github.com/Emiloart/HDIP)
+**Portable decentralized identity infrastructure.**
+
+A multi-phase system for reusable verification, selective disclosure, cryptographic recovery, verifiable credentials, and user-controlled identity data.
+
+Private repository at the moment.
+
+### [ShadeFast](https://shadefast.app)
+**Anonymous social infrastructure where privacy is the default.**
+
+An anonymous publishing and messaging platform designed around session-based participation rather than persistent identity.
+
+The architecture emphasizes data minimization, encrypted communication, metadata reduction, and user-controlled cryptographic continuity.
+
+The implementation repository is private while the product is being developed.
+
+### [VerifyFlow](https://github.com/Emiloart/VerifyFlow)
+**Infrastructure for measuring what KYC providers actually deliver, not just what they promise.**
+
+A verification infrastructure project focused on observable provider performance, workflow behavior, and evidence rather than marketing claims.
+
+### [Achievo](https://github.com/Emiloart/achievo)
+Product and systems work exploring practical software architecture, trust, and execution.
+
+---
+
+## Engineering focus
 
 - Privacy-preserving architecture
 - Decentralized identity and verifiable credentials
 - Cryptography and zero-knowledge systems
 - Distributed systems and resilient infrastructure
-- AI systems that are understandable and accountable
 - Application and infrastructure security
-- Data sovereignty
-- Architecture that outlives the hype cycle that created it
-
-I do not chase trends. I build systems with strong foundations, clear boundaries, and consequences worth understanding.
+- AI systems and agentic architectures
+- Data sovereignty and privacy engineering
+- Secure system design and threat modeling
+- Architecture, APIs, and service boundaries
 
 ---
 
 ## Technical stack
 
 **Languages**
-`TypeScript` `JavaScript` `Python` `Go` `Rust` `Solidity` `SQL` `Bash`
 
-**Frontend**
-`React` `Next.js` `Flutter` `Tailwind CSS` — type-safe UI architecture
+`TypeScript` `JavaScript` `Dart` `Python` `Go` `Rust` `C++` `Kotlin` `Solidity` `Cairo` `Leo` `SQL` `Bash`
 
-**Backend & APIs**
-`Node.js` `NestJS` `REST` `GraphQL` — event-driven services, API design, service boundaries
+**Application engineering**
 
-**Distributed systems & infrastructure**
-`PostgreSQL` `Redis` `Supabase` `Firebase` `Docker` `Kubernetes` `CI/CD` — cloud-native, microservices, modular systems
+`Flutter` `Next.js` `React` `Node.js` `NestJS` `REST` `GraphQL`
 
-**Security & identity**
-`OAuth / OIDC` `PKI and cryptographic primitives` `Verifiable credentials` `Threat modeling` `Secure system design` `Privacy engineering`
+**Infrastructure & distributed systems**
 
-**AI & product engineering**
-`AI-assisted workflows` `Applied model integration` `Agentic systems` `Trust-aware AI architecture`
+`PostgreSQL` `Supabase` `Redis` `Docker` `Kubernetes` `NATS` `Temporal` `ClickHouse` `CockroachDB`
 
-**Certifications**
-OSEP certified · CREST in progress
+**Identity & security**
 
----
+`W3C Verifiable Credentials` `OpenID4VCI` `SD-JWT VC` `OAuth / OIDC` `PKI` `Cryptographic primitives` `Threat modeling` `OWASP ASVS` `OWASP MASTG`
 
-## GitHub stats
+**AI**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emiloart&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Emiloart GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emiloart&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emiloart&hide_border=true&theme=default" alt="GitHub streak" height="165"/>
-</p>
+`Model integration` `AI-assisted engineering` `Agentic systems` `Trust-aware AI architecture`
 
 ---
 
-## Affiliations
+## Security
+
+**OSEP — OffSec Exploitation Penetration Tester**
+
+**CREST Practitioner Security Analyst**
+
+I approach security as an architectural property rather than a final-stage checklist. That means explicit trust boundaries, least privilege, attack-surface reduction, cryptographic separation, and verification against realistic failure modes.
+
+---
+
+## Selected affiliations
 
 - IOTA Ambassador
 - Trust Wallet Squad Member
 
 ---
 
-## Personal
+## Outside engineering
 
 Je parle français.
+
 I love chess.
+
 I support FC Bayern Munich.
 
-Built with a preference for systems that endure.
+---
+
+<div align="center">
+
+**Build deliberately. Verify aggressively. Preserve human control.**
+
+</div>
